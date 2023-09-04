@@ -1,0 +1,4 @@
+'BEGIN'
+  'COMMENT' In Algol 60;
+  OUTPUT(4,'(''('Hello World!')',/')')
+'END
